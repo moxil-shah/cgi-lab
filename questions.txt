@@ -19,3 +19,5 @@ If we add query params, the QUERY_STRING will be replaced by the query params
 7. Cookies are used to store information about anyone
 accessing a website to eliminated tedious/repetitive tasks
 like logging in every time.
+
+8. https://github.com/moxil-shah/cgi-lab
