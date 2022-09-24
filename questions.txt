@@ -1,0 +1,21 @@
+1. With the following command:
+```
+print("Content-Type: text/plain")
+print()
+print(os.environ)
+```
+If we add query params, the QUERY_STRING will be replaced by the query params
+
+2. QUERY_STRING
+
+3. HTTP_USER_AGENT
+
+4. The FieldStorage class
+
+5. Set-Cookie: <cookie-name>=<cookie-value>
+
+6. Cookie: <cookie-name>=<cookie-value>
+
+7. Cookies are used to store information about anyone
+accessing a website to eliminated tedious/repetitive tasks
+like logging in every time.
